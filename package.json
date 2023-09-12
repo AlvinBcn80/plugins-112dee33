@@ -37,7 +37,7 @@
     "pnpm": "7.33.4",
     "prettier": "^2.2.1",
     "prettier-plugin-package": "^1.3.0",
-    "semver": "^7.3.2",
+    "semver": "^7.5.2",
     "source-map-support": "^0.5.19",
     "ts-node": "10.1.0",
     "tsconfig-paths": "^3.9.0",
