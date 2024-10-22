@@ -357,14 +357,14 @@ importers:
         version: 5.0.1(rollup@4.0.0-24)
       graphql-tag:
         specifier: ^2.12.6
-        version: 2.12.6(graphql@16.6.0)
+        version: 2.12.6(graphql@16.8.1)
     devDependencies:
       '@rollup/plugin-buble':
         specifier: ^1.0.0
         version: 1.0.0(rollup@4.0.0-24)
       graphql:
-        specifier: ^16.6.0
-        version: 16.6.0
+        specifier: ^16.8.1
+        version: 16.8.1
       rollup:
         specifier: ^4.0.0-24
         version: 4.0.0-24
@@ -2898,8 +2898,8 @@ packages:
     peerDependencies:
       graphql: ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
 
-  graphql@16.6.0:
-    resolution: {integrity: sha512-KPIBPDlW7NxrbT/eh4qPXz5FiFdL5UbaA0XUNz2Rp3Z3hqBSkbj0GVjwFDztsWVauZUWsbKHgMg++sk8UX0bkw==}
+  graphql@16.8.1:
+    resolution: {integrity: sha512-59LZHPdGZVh695Ud9lRzPBVTtlX9ZCV150Er2W43ro37wVof0ctenSaskPPjN7lVTIN8mSZt8PHUNKZuNQUuxw==}
     engines: {node: ^12.22.0 || ^14.16.0 || ^16.0.0 || >=17.0.0}
 
   hard-rejection@2.1.0:
@@ -7169,12 +7169,12 @@ snapshots:
 
   grapheme-splitter@1.0.4: {}
 
-  graphql-tag@2.12.6(graphql@16.6.0):
+  graphql-tag@2.12.6(graphql@16.8.1):
     dependencies:
-      graphql: 16.6.0
+      graphql: 16.8.1
       tslib: 2.4.0
 
-  graphql@16.6.0: {}
+  graphql@16.8.1: {}
 
   hard-rejection@2.1.0: {}
 
